@@ -1,8 +1,10 @@
 HELLO 👍
 
-I'm EMILY and a self-learner for coding 
+I'm EMILY
 
+A College Student, whos planning on transferring ➡️
 
+Computer Science 
 
 Interests: 🌱
 
