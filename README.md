@@ -8,9 +8,8 @@ Computer Science
 
 Interests: 🌱
 
-         ROBLOX Studio/Scripting
          
-         Web Scraping 
+         Web Scraping & Extracting Data
          
          Machine Learning 
          
