@@ -2,7 +2,7 @@ HELLO 👍
 
 I'm EMILY CASTRO
 
-A College Student, whos planning on transferring ➡️
+College Student
 
 Computer Science 
 
