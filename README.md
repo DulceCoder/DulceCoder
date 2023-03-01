@@ -9,8 +9,10 @@ Computer Science
 Interests: 🌱
 
          
-         Web Scraping & Extracting Data
+         Web Development/ Front-end  
          
-         Machine Learning 
+         web3 
          
-         Front-end 
+         writing technical blogs 
+         
+         
