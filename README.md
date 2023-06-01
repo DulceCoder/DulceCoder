@@ -11,7 +11,7 @@ Interests: 🌱
          
          Web Development and Web-scraping 
          
-         web3 
+         web3 development 
          
          writing technical blogs https://dulcec.hashnode.dev/
          
