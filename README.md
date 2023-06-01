@@ -9,7 +9,7 @@ Computer Science
 Interests: 🌱
 
          
-         Web Development/ Front-end  
+         Web Development and Web-scraping 
          
          web3 
          
