@@ -13,6 +13,6 @@ Interests: 🌱
          
          web3 development 
          
-         writing blogs https://dulcec.hashnode.dev/
+         Hashnode https://dulcec.hashnode.dev/
          
          
