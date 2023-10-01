@@ -1,17 +1,15 @@
 HELLO 👍
 
-I'm EMILY CASTRO
+I'm EMILY C
 
-College Student
-
-Computer Science 
+Software Engineer 
 
 Interests: 🌱
 
          
          Web Development and Web-scraping 
          
-         web3 development 
+         Web3 development, Smart contracts
          
          Tech Writing https://dulcec.hashnode.dev/
          
