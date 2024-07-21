@@ -1,16 +1,5 @@
-HELLO 👍
+HELLO, I am Emily 👍
 
-I'm EMILY C
-
-Software Engineer 
-
-Interests: 🌱
-
+I am a Front-End Developer
          
-         Web Development and Web-scraping 
-         
-         Web3 development, Smart contracts
-         
-         Tech Writing https://dulcec.hashnode.dev/
-         
-         
+         I like to particpate in hashnode hackathons,tech twitter and ai
