@@ -1,5 +1,5 @@
 HELLO, I am Emily 👍
 
-I am a Front-End Developer
+A Front-End Developer
          
-     
+     Python, JavaScript, PHP, C, C#
